@@ -4,7 +4,7 @@ Estes projetos acima são meus projetos pessoais durante a minha jornada como es
 
 Durante a realização desses projetos, foram usadas ferramentas como: Python e suas bibliotecas, Análise Estatística de dados, VS Code, Github, WSL (linha de comando), SQL, Extração de Dados em recursos online, Análise de Negócio (LTV, CAC, Retenção, Cancelamento, Cohort, Métricas e Funis, ROI e ROMI) e Experimentação.
 
-# Projetos - Sprints
+## Projetos - Sprints
 # Sprint 2 - Análise de compartamento de usuários - Python - Pandas
 # Sprint 3 - Análise de Plataforma de vendas - Pandas e matplotlib
 # Sprint 4 - Análise de Empresa de telecomunicações - Teste hipóteses Estatíticas - Pandas, matplotlib, numpy, seaborn, math, scipy
