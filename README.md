@@ -6,9 +6,9 @@ Durante a realização desses projetos, foram usadas ferramentas como: Python e 
 
 # Projetos - Sprints:
 ## Sprint 2 - Análise de compartamento de usuários - Python - Pandas
-## Sprint 3 - Análise de Plataforma de vendas - Pandas e matplotlib
+## Sprint 3 - Análise de Plataforma de vendas - Python - Pandas e matplotlib
 ## Sprint 4 - Análise de Empresa de telecomunicações - Teste hipóteses Estatíticas - Python - Pandas, matplotlib, numpy, seaborn, math, scipy
-## Sprint 5 - App Web (fora do respositório) - Projeto feito usando streamlit, Pandas, plotly-express e Render
+## Sprint 5 - App Web (fora do respositório) - Projeto feito usando Python - streamlit, Pandas, plotly-express e Render
 ## Sprint 6 - Análise de um banco de dados de Video-games - Projeto relacionado a todo o aprendizado da sprint 1 a 5.
 ## Sprint 7 - Análise de dados sobre aplicativo de corridas no transporte privativo urbano (ex: uber) - SQL + Python
 ## Sprint 8 - Análise de Marketing - Índice de Cancelamento e Retenção, CAC, LTV, Métricas e Funis de Marketing, ROI e ROMI, Cohort, Métricas de usuários.
