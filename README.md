@@ -14,4 +14,5 @@ Durante a realização desses projetos, foram usadas ferramentas como: Python e 
 ## Sprint 8 - Análise de Marketing - Índice de Cancelamento e Retenção, CAC, LTV, Métricas e Funis de Marketing, ROI e ROMI, Cohort, Métricas de usuários.
 ## Sprint 9 - Decisões de Negócio - Utilização de Teste A/B - Experimentação.
 ## Sprint 10 - Pesquisa de Mercado - Python - Pandas, matplotlib, numpy, seaborn.
+## Sprint 11 - Análise de comportamento do usuário - Projeto relacionado a todo o aprendizado da sprint 6 a 10.
 Os projetos estão sendo realizados em cadernos do Jupyter Notebook e são todos baseados em linguagem de programação Python.
